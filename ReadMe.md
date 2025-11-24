@@ -72,10 +72,3 @@ The target variable is not provided in the original data. I treat this as a pure
 - A small amount of hyperparameter tuning slightly improves the Random Forest performance and demonstrates how tuning can be used in practice.
 
 ---
-
-## 5. How to Run
-
-1. Install Python 3 and the required libraries:
-
-   ```bash
-   pip install numpy pandas matplotlib seaborn scikit-learn
